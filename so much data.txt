@@ -1,0 +1,12 @@
+https://chronicdata.cdc.gov/browse?category=Nutrition%2C+Physical+Activity%2C+and+Obesity&limitTo=datasets
+
+https://nifa.usda.gov/data
+
+https://catalog.data.gov/dataset/supplemental-nutrition-assistance-program-participation-and-cost-data
+https://catalog.data.gov/dataset/federal-cost-of-school-food-program-data
+
+https://catalog.data.gov/dataset/farmers-markets-directory-and-geographic-data
+	Longitude and latitude, state, address, name, and zip code of Farmers Markets in the United States
+
+
+https://catalog.data.gov/organization/4ae51f6c-467a-4f9d-b40a-2c52e83c326a?publisher=Food+and+Nutrition+Service

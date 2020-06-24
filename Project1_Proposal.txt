@@ -1,5 +1,2 @@
-#Question: How does nutrition and other lifestyle habits or rural Americans contribute to heart disease mortality rates. 
-#Scope Summary 1: our analysis will examine the relationship between nutritional and lifestyle choices(such as diet, exercise, and other related health factors)and the heart disease mortality rates of rural Americans. We will use this data to determine which health factors may most contribute to heart disease mortality rates among people in rural areas.
-
-#Question: How does diet, exercise, and weight status of adults contribute to rates of obesity in rural America.
-#Scope Summary 2: our analysis will examine the relationship between nutritional and lifestyle choices(diet, exercise, ect.) and the rates of obesity in rural America.
+#Question: How does diet and exercise contribute to rates of obesity in Millenials and Gen X?
+#Scope Summary 2: our analysis will examine the relationship between nutritional and lifestyle behaviors (diet, exercise, ect.) and the rates of obesity between Millenials and Gen X.

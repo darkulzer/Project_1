@@ -1,11 +1,11 @@
-- Pie chart of Gen x/Millennial
-
-- AVG Obesity
-
-- Barcharts on nutritional and behavioral activities by generation (age group)
-
-Line charts showing trends of time ...
+- independent T test???
 
 
-Graphs showing correlation ...
-- plot graph showing correlation between healthy eating habits (veggies&fruits) and obesity rate by age group
+- Barcharts on obesity over time(5 years) by generation
+- Line charts showing trends of time (5 years) on nutritional activities by generation.
+- Line charts showing trends of time (5 years) on behavioral activities by generation.
+  
+
+Graphs showing correlation ... plot graph showing correlation between healthy eating habits (veggies&fruits) and obesity rate by age group
+  - obesity vs. nutrtional behavior
+  - obesity vs. physical behavior

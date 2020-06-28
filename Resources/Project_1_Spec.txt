@@ -1,15 +1,11 @@
-<<<<<<< HEAD
+- independent T test???  Dan
+- heat map???  Dan, DarleneK, Taylor
 
-=======
-- independent T test???
-
-
-- Barcharts on obesity over time(5 years) by generation
-- Line charts showing trends of time (5 years) on nutritional activities by generation.
-- Line charts showing trends of time (5 years) on behavioral activities by generation.
+- Barcharts on obesity over time(5 years) by generation  Taylor
+- Line charts showing trends of time (5 years) on nutritional activities by generation.   DarleneB
+- Line charts showing trends of time (5 years) on behavioral activities by generation.  DarleneB
   
 
-Graphs showing correlation ... plot graph showing correlation between healthy eating habits (veggies&fruits) and obesity rate by age group
-  - obesity vs. nutrtional behavior
+Graphs showing correlation ... plot graph showing correlation between healthy eating habits (veggies&fruits) and obesity rate by age group  DarleneK
+  - obesity vs. nutritional behavior
   - obesity vs. physical behavior
->>>>>>> 332f1a575ae000a6ff8a394065f17834368ce916
